@@ -7,3 +7,5 @@ but I worked on this class/ADT solely from notes I took in class, no online or i
 Thus I'm very proud of it.
 The class was fully functional in the test-cases from my textbook.
 
+
+I also included the node and iterator classes that were also used as this is a doubly linked structure.
